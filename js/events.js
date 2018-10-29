@@ -12,6 +12,10 @@ function frameIt(){
   })
 }
 
+function submitIt(){
+  
+}
+
 $(document).ready(function(){
   
 getIt()
